@@ -2,7 +2,7 @@
 <h3 align="center">Python Backend Developer | Competitive Programmer </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/mohamed-alaa-a53867340"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Alaa-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-alaa-a53867340"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Alaa-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:xlr8.cpp@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://codeforces.com/profile/M.alaa"><img src="https://img.shields.io/badge/Competitive%20Programming-C%2B%2B-orange?style=for-the-badge&logo=codeforces" /></a>
 </p>
