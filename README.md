@@ -53,11 +53,11 @@ class MohamedAlaa:
 
     def hobbies(self):
         return {
-            "Competitive Programming ",
-            "Online Shooter Games (FPS & Multiplayer) ",
-            "Martial Arts Training ",
-            "Swimming ",
-            "Football ",
+            "Competitive Programming",
+            "Online Shooter Games (FPS & Multiplayer)",
+            "Martial Arts",
+            "Swimming",
+            "Football",
             "Watching Movies",
             "Reading Comics"
         }
